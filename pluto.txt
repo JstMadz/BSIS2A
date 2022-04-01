@@ -1,4 +1,8 @@
 
 Yellow Pluto
 Hello Sun
+<<<<<<< HEAD
 Hello Jupiter and Saturn
+=======
+Hello Mars and venus
+>>>>>>> 58be9174117a23d411655ad587ea91924e0ea61a
